@@ -1,7 +1,7 @@
-### Hi I'm Emir 👋
-I'm Emir Köse from Turkey/Trabzon, I'm 15 years old, I'm developing myself as a front-end developer.
-* I am currently studying at Trabzon Of Science High School.
-* I am working to be a front-end developer
+### Hi there 👋, I'm Emir Köse
+I'm from Turkey/Trabzon, I'm 15 years old, I'm developing myself as a front-end developer.
+
+Skills:  HTML / CSS / PYTHON
 
 
 ![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirkose08&show_icons=true&theme=radical)
