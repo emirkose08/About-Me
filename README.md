@@ -15,7 +15,7 @@ Skills:  HTML / CSS / PYTHON
 
 ![GitHub metrics](https://metrics.lecoq.io/emirkose08)  
 
-![Profile views](https://gpvc.arturio.dev/emirkose08)  
+![Profile views](https://gpvc.arturio.dev/emirkose08) 
 
 
 
