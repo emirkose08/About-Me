@@ -11,7 +11,7 @@ Skills:  HTML / CSS / PYTHON / Arduino
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emirkose08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ekose0/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirkose08)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirkose08)](https://github.com/emirkose08/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/emirkose08)  
 
