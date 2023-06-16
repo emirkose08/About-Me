@@ -1,11 +1,9 @@
 ### Hi there 👋, I'm Emir Köse
-I'm from Turkey/Trabzon, I'm 15 years old, I'm developing myself as a front-end developer.
+I'm from Turkey/Trabzon, I'm 16 years old.
 
-Skills:  HTML / CSS / PYTHON / Arduino
+Skills: PYTHON / Arduino
 
-- 🔭 I’m currently working on front-end 
 - 📫 How to reach me: emirkose0611@gmail.com 
-
 
 ![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirkose08&show_icons=true&theme=radical)
 
