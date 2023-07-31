@@ -2,6 +2,7 @@
 I'm from Turkey/Trabzon, I'm 16 years old.
 
 Skills: PYTHON / Arduino
+I am currently working on Python.
 
 - 📫 How to reach me: emirkose0611@gmail.com 
 
